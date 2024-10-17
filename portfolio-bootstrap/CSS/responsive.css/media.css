@@ -1,0 +1,622 @@
+ @media(max-width:1400px){
+
+    .navbar h1{
+        margin-left: -10px;
+    }
+
+    .main-intro h2{
+        font-size: 60px;
+        margin-top: -300px;
+    }
+
+    button{
+        margin-bottom: 200px;
+        font-size: 60px;
+        width: 250px;
+    }
+
+   h6{
+        margin-left: 200px;
+    }
+
+    .section-width{
+    margin-left: 240px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    max-width: 1280px;
+    height: 700px;
+    }
+    
+     h1{
+        margin-left: 200px;
+    }
+
+    p{
+        margin-left: 220px;
+    }
+
+    .content .row{
+        margin-left: 200px;
+    }
+
+    .servicesinfo .row{
+        margin-left: 200px;
+    }
+
+    
+    .service h5{
+        margin-left: -10px;
+        font-size: 30px;
+    }
+
+    .service p{
+        margin-left: -10px;
+        font-size: 20px;
+    }
+
+    .sticky-bg-stats{
+        margin-left: 280px;
+        width: 1000px;
+    }
+    
+    
+    .sticky-bg-stats ul{
+        margin-left: 10px;
+    }
+    
+    .sticky-bg-stats ul li h3{
+        font-size: 20px;
+    }
+
+    .sticky-bg-stats ul li p{
+        margin-left: 30px;
+        font-size: 20px;
+    }
+
+     .text-brand{
+        margin-left: 220px;
+    }
+
+    .hire h1{
+        margin-left: -5px;
+    }
+
+    h1{
+        margin-left: 220px;
+    }
+
+    .skill-content{
+        margin-left: 220px;
+    }
+
+    .progresses .row{
+        margin-left: 220px;
+    }
+
+    .imagess .row{
+        margin-left: 220px;
+    }
+
+    .card-custom-content p{
+        margin-left: 2px;
+        font-size: 20px;
+    }
+
+    .contact h6{
+        margin-left: 220px;
+    }
+
+    .contact h4{
+        margin-left: 220px;
+    }
+
+    .education{
+        margin-left: 250px;
+    }
+
+    
+    .education h1{
+        margin-left:4px;
+    }
+
+}
+
+
+@media(max-width:1200px){
+    
+    .servicesinfo .row{
+        margin-left: 200px;
+    }
+
+    
+    .service h5{
+        font-size: 20px;
+    }
+
+    .service p{
+        font-size: 18px;
+    }
+
+    .sticky-bg-stats{
+        margin-left: 280px;
+        width: 850px;
+    }
+    
+    
+    .sticky-bg-stats ul{
+        margin-left: 10px;
+    }
+    
+    
+    .sticky-bg-stats ul li h3{
+        font-size: 20px;
+    }
+
+    .sticky-bg-stats ul li p{
+        margin-left: 30px;
+        font-size: 20px;
+    }
+}
+
+
+
+@media(max-width:1100px){
+    
+    .servicesinfo .row{
+        margin-left: 200px;
+    }
+
+    
+    .service h5{
+        font-size: 20px;
+    }
+
+    .service p{
+        font-size: 14px;
+    }
+
+    .sticky-bg-stats{
+        margin-left: 280px;
+        width: 750px;
+    }
+    
+    
+    .sticky-bg-stats ul{
+        margin-left: 10px;
+    }
+    
+    
+    .sticky-bg-stats ul li h3{
+        font-size: 20px;
+    }
+
+    .sticky-bg-stats ul li p{
+        margin-left: 30px;
+        font-size: 20px;
+    }
+}
+
+
+
+@media(max-width:1000px){
+    
+    .servicesinfo .row{
+        margin-left: 200px;
+    }
+
+    
+    .service h5{
+        font-size: 18px;
+    }
+
+    .service p{
+        font-size: 13px;
+    }
+
+    .sticky-bg-stats{
+        margin-left: 280px;
+        width: 650px;
+    }
+    
+    
+    .sticky-bg-stats ul{
+        margin-left: 8px;
+    }
+    
+    
+    .sticky-bg-stats ul li h3{
+        font-size: 18px;
+    }
+
+    .sticky-bg-stats ul li p{
+        margin-left: 30px;
+        font-size: 18px;
+    }
+
+   .form .row{
+        margin-left: 30px;
+    }
+
+    
+   .form .row h3{
+    font-size: 16px;
+}
+
+.progresses p{
+    margin-left: -1px;
+    font-size: 20px;
+}
+}
+
+@media(max-width:991px){
+    .navbar button{
+        margin-top: 200px;
+    }
+    
+    .main-intro h2{
+        font-size: 60px;
+    }
+
+    button{
+        font-size: 60px;
+        width: 250px;
+    }
+
+   h6{
+        margin-left: 200px;
+    }
+
+    .section-width{
+    margin-left: 240px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    max-width: 1280px;
+    }
+    
+     h1{
+        margin-left: 100px;
+    }
+
+    p{
+        margin-left: 120px;
+    }
+
+    .content .row{
+        margin-left: 100px;
+    }
+
+    
+    .content .row i{
+        font-size: 20px;
+    }
+
+
+    .content .row h5{
+        font-size: 20px;
+    }
+
+    .content .row a{
+        font-size: 13px;
+    }
+
+    .servicesinfo .row{
+        margin-left: 200px;
+    }
+
+    
+    .service h5{
+        margin-left: -10px;
+        font-size: 30px;
+    }
+
+    .service p{
+        margin-left: -10px;
+        font-size: 20px;
+    }
+
+    .hire h1{
+        font-size: 28px;
+    }
+
+    .servicesinfo .row h5{
+        font-size: 11px;
+    }
+
+    .servicesinfo .row p{
+        font-size: 10px;
+    }
+
+    .sticky-bg-stats{
+        margin-left: 280px;
+        width: 650px;
+    }
+    
+    
+    .sticky-bg-stats ul{
+        margin-left: 10px;
+    }
+    
+    .sticky-bg-stats ul li h3{
+        font-size: 20px;
+    }
+
+    .sticky-bg-stats ul li p{
+        margin-left: 30px;
+        font-size: 20px;
+    }
+
+     .text-brand{
+        margin-left: 220px;
+    }
+
+    .hire h1{
+        margin-left: -5px;
+    }
+
+    h1{
+        margin-left: 220px;
+    }
+
+    .skill-content{
+        margin-left: 220px;
+    }
+
+    .progresses .row{
+        margin-left: 220px;
+    }
+
+    .imagess .row{
+        margin-left: 220px;
+    }
+
+    
+    .card-custom-content h4{
+        margin-left: 2px;
+        font-size: 18px;
+    }
+
+    .card-custom-content p{
+        margin-left: 2px;
+        font-size: 18px;
+    }
+
+    .contact h6{
+        margin-left: 220px;
+    }
+
+    .contact h4{
+        margin-left: 220px;
+        font-size: 20px;
+    }
+
+    .c-info h3{
+        font-size:3px;
+
+    }
+    
+}
+
+
+
+@media(max-width:1000px){
+    
+    .servicesinfo .row{
+        margin-left: 200px;
+    }
+
+    
+    .service h5{
+        font-size: 18px;
+    }
+
+    .service p{
+        font-size: 13px;
+    }
+
+    .sticky-bg-stats{
+        margin-left: 280px;
+        width: 650px;
+    }
+    
+    
+    .sticky-bg-stats ul{
+        margin-left: 8px;
+    }
+    
+    
+    .sticky-bg-stats ul li h3{
+        font-size: 18px;
+    }
+
+    .sticky-bg-stats ul li p{
+        margin-left: 30px;
+        font-size: 18px;
+    }
+
+   .form .row{
+        margin-left: 30px;
+    }
+
+    
+   .form .row h3{
+    font-size: 16px;
+}
+
+.progresses p{
+    margin-left: -1px;
+    font-size: 20px;
+}
+}
+
+@media(max-width:991px){
+
+    .sticky-bg-stats{
+        margin-left: 280px;
+        width: 450px;
+    }
+    
+    
+    .sticky-bg-stats ul{
+        margin-left: 10px;
+    }
+    
+    .sticky-bg-stats ul li h3{
+        font-size: 20px;
+    }
+
+    .sticky-bg-stats ul li p{
+        margin-left: 20px;
+        font-size: 16px;
+    }
+    
+}
+
+
+@media(max-width:576px){
+
+    .main-intro h2{
+        font-size: 30px;
+    }
+
+    button{
+        font-size: 10px;
+        width: 250px;
+    }
+
+   h6{
+        margin-left: 200px;
+    }
+
+    .section-width{
+    margin-left: 240px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    max-width: 1280px;
+    }
+    
+     h1{
+        margin-left: 100px;
+    }
+
+    p{
+        margin-left: 220px;
+    }
+
+    .content .row{
+        margin-left: 220px;
+    }
+
+    
+    .content .row i{
+        font-size: 20px;
+    }
+
+
+    .content .row h5{
+        font-size: 20px;
+    }
+
+    .content .row a{
+        font-size: 13px;
+    }
+
+    .servicesinfo .row{
+        margin-left: 200px;
+    }
+
+    
+    .service h5{
+        margin-left: -10px;
+        font-size: 30px;
+    }
+
+    .service p{
+        margin-left: -10px;
+        font-size: 20px;
+    }
+
+    .hire h1{
+        font-size: 28px;
+    }
+
+    .servicesinfo .row h5{
+        font-size: 11px;
+    }
+
+    .servicesinfo .row p{
+        font-size: 10px;
+    }
+
+    .sticky-bg-stats{
+        margin-top: 1px;
+        margin-left: 240px;
+        width: 290px;
+    }
+    
+    
+    .sticky-bg-stats ul{
+        margin-left: 10px;
+    }
+    
+    .sticky-bg-stats ul li h3{
+        font-size: 10px;
+    }
+
+    .sticky-bg-stats ul li p{
+        margin-left: 30px;
+        font-size: 10px;
+    }
+
+     .text-brand{
+        margin-left: 220px;
+    }
+
+    .hire h1{
+        margin-left: -5px;
+    }
+
+    h1{
+        margin-left: 220px;
+    }
+
+    .skill-content{
+        margin-left: 220px;
+    }
+
+    .progresses .row{
+        margin-left: 220px;
+    }
+
+    .imagess .row{
+        margin-left: 220px;
+    }
+
+    
+    .card-custom-content h4{
+        margin-left: 2px;
+        font-size: 18px;
+    }
+
+    .card-custom-content p{
+        margin-left: 2px;
+        font-size: 18px;
+    }
+
+    .contact h6{
+        margin-left: 220px;
+    }
+
+    .contact h4{
+        margin-left: 220px;
+        font-size: 20px;
+    }
+
+    .c-info h3{
+        font-size:3px;
+
+    }
+    
+}
